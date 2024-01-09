@@ -31,7 +31,6 @@ toggle2.addEventListener("click", () => {
     text.textContent = "Good Morning";
     text.style.color = "black";
     toggle2.style.display = "block";
-    light = true;
     toggle.style.display = "block";
     toggle2.style.display = "none";
 });
